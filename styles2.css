@@ -1,0 +1,16 @@
+body {
+    font-family: Arial;
+    margin:10px;
+    color: black;
+}
+
+table {
+    margin-top: 20px;
+    border-collapse: collapse;
+    color: rgb(126, 76, 191);
+}
+
+td {
+  border: 1px solid;
+  text-align: center;
+}
